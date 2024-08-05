@@ -1,4 +1,5 @@
-myfastapiapp/
+FastAPi-app-using-postgress
+
 ├── app/
 │   ├── __init__.py
 │   ├── main.py

@@ -1,0 +1,12 @@
+myfastapiapp/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   └── schemas.py
+├── .env
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── LICENSE
